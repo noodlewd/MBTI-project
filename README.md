@@ -1,1 +1,1 @@
-# MBTI-project
+# MBTI-project - 연결
